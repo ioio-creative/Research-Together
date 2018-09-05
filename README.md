@@ -34,8 +34,31 @@ Result:
     Audi
 ```
 
-### What is JSON File? [https://www.w3schools.com/js/js_loop_for.asp]
+### What is JSON File? [https://www.w3schools.com/js/js_json.asp]
+```
+object
+{}
 
+array
+[]
+
+string
+"text"
+
+numbers
+123
+
+format example:
+{                                                   //object
+"employees":                                        //key : value ->Key is a string, value is an array
+    [                                               //array (with 3 object)
+        {"firstName":"John", "lastName":"Doe"},     //comma is necessary for separating the items
+        {"firstName":"Anna", "lastName":"Smith"},   //key : value (usually in pair)
+        {"firstName":"Peter", "lastName":"Jones"}
+    ]
+}
+
+```
 ### Get the current date in JavaScript?
 https://stackoverflow.com/questions/1531093/how-do-i-get-the-current-date-in-javascript
 
