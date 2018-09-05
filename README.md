@@ -9,11 +9,11 @@
 https://stackoverflow.com/questions/1531093/how-do-i-get-the-current-date-in-javascript
 
 ### Sample
-* ![alt text](https://github.com/ioio-creative/Research-Together/blob/master/reference/Payroll%20Example.jpg)
+![alt text](https://github.com/ioio-creative/Research-Together/blob/master/reference/Payroll%20Example.jpg)
 
 # Basic Tutorials
 
-### Do A For-Loop [https://www.w3schools.com/js/js_loop_for.asp]
+### Doing A For-Loop [https://www.w3schools.com/js/js_loop_for.asp]
 ```
 var cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"]; //This is an array
 var text = "";
