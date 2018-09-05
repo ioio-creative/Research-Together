@@ -34,7 +34,7 @@ Result:
     Audi
 ```
 
-### What is JSON File? [https://www.w3schools.com/js/js_json.asp]
+### What is a JSON File? [https://www.w3schools.com/js/js_json.asp]
 ```
 object
 {}
